@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace raft\node\role;
 
 use raft\node\NodeId;
